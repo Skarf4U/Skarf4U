@@ -9,4 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Skarf4U | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Skarf | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+
+[twitter]: https://twitter.com/Skarf4U
