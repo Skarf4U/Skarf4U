@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Skarf 👋
 
-<!--
-**Skarf4U/Skarf4U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a 10th Grade Student, Developer & a Discord Administrator
 
-Here are some ideas to get you started:
+- 📍 I’m currently working on a PRIVATE START-UP!
+- 📌 I’m currently learning Python.
+- 🌩 About to start learning C# soon.
+- ⚡️ 2020 Goals: Master & Finalize my Python Skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/Skarf4U]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
