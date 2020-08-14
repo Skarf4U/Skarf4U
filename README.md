@@ -2,10 +2,10 @@
 
 ## I'm a 10th Grade Student, Developer & a Discord Administrator
 
-- 📍 I’m currently working on a PRIVATE START-UP!
-- 📌 I’m currently learning Python.
-- 🌩 About to start learning C# soon.
-- ⚡️ 2020 Goals: Master & Finalize my Python Skills.
+- 📍  I’m currently working on a PRIVATE START-UP!
+- 📌  I’m currently learning Python.
+- 🌩  About to start learning C# soon.
+- ⚡️  2020 Goals: Master & Finalize my Python Skills.
 
 ### Connect with me:
 
