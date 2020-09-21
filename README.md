@@ -4,8 +4,8 @@
 
 - I’m currently working on a PRIVATE START-UP!
 - Familiar with HTML, CSS & JavaScript.
-- I’m currently learning Python.
-- About to start learning C# soon.
+- I’m currently learning Python & C#.
+- Next on the list: C++/C.
 
 ### Connect with me:
 
