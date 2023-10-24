@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adi</h1>
 <h3 align="center">A 17 year old, passionate full-stack developer.</h3>
 
-- 👨‍💻 All of my projects are available at https://adiamar.vercel.com
+- 👨‍💻 All of my projects are available at https://adiamar.vercel.app
   
 - 🔭 I’m currently working on **a private project**
 
