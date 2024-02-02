@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adi</h1>
-<h3 align="center">A 17 year old, passionate full-stack developer.</h3>
+<h3 align="center">An 18 year old, passionate full-stack developer.</h3>
 
 - 👨‍💻 All of my projects are available at https://adiamar.dev
   
