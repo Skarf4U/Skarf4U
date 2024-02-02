@@ -5,6 +5,6 @@
   
 - 🔭 I’m currently working on **a private project**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 📫 How to reach me **skarf.business@gmail.com**
