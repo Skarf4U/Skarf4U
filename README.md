@@ -7,4 +7,4 @@
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 📫 How to reach me **skarf.business@gmail.com**
+- 📫 How to reach me **dev@adiamar.dev**
